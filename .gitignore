@@ -1,0 +1,4 @@
+__pycache__
+.venv/
+*.pyc
+.venv/lib/python3.12/site-packages/__pycache__/
